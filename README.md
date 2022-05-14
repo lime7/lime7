@@ -11,7 +11,7 @@
 
 
 
-<p align="center">
+<p >
   <br><br>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/lime7/lime7?style=flat-square&color=black&logo=github&a=0">
