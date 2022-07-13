@@ -14,13 +14,13 @@
  <p>  
   <img src="https://komarev.com/ghpvc/?username=lime7&color=000000">
   <img src="https://visitor-badge.glitch.me/badge?page_id=lime7.visitor-badge&left_color=gray&right_color=black&left_text=Visitors">
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/lime7?tab=repositories">
     <img src="https://badges.pufler.dev/repos/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://gist.github.com/lime7">
     <img src="https://badges.pufler.dev/gists/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/lime7">
     <img src="https://badges.pufler.dev/commits/monthly/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
 </p>
