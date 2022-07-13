@@ -17,7 +17,7 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://gist.github.com/lime7">
     <img src="https://badges.pufler.dev/gists/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://badges.pufler.dev">
