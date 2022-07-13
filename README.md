@@ -5,11 +5,12 @@
 - 📈 My github stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=ff5a00&icon_color=ff5a00&text_color=000000&bg_color=ffffff" alt="lime7" />
+  
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=000000&icon_color=ff5a00&text_color=000000&bg_color=ffffff" alt="lime7" />
 
-
-<p >
-  <br><br>  
+<p>
+  <br> 
   <img src="https://komarev.com/ghpvc/?username=lime7&color=000000">
   <img src="https://visitor-badge.glitch.me/badge?page_id=lime7.visitor-badge&left_color=gray&right_color=black&left_text=Visitors">
   <a href="https://badges.pufler.dev">
