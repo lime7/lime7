@@ -21,3 +21,6 @@
     <img src="https://badges.pufler.dev/commits/monthly/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
 </p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsogmeotv4twffveiwzpo6ze2y&cover_image=true&theme=novatorem&bar_color=ff5a00)](https://github.com/kittinan/spotify-github-profile)
