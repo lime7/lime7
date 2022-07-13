@@ -1,8 +1,12 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning react/vue
-- 📈 My github stats:
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tsogmeotv4twffveiwzpo6ze2y&cover_image=true&theme=novatorem&bar_color=ff5a00" align="right">
+
+
+### Hi there 👋  <br> 
+ 🔭 I’m currently working on ... <br> 
+ 🌱 I’m currently learning react/vue <br> 
+ 📈 My github stats: <br> 
+
 
 | <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=ff5a00&icon_color=ff5a00&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> | <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=000000&icon_color=ff5a00&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> |
 | ------------- | ------------- |
@@ -21,6 +25,3 @@
     <img src="https://badges.pufler.dev/commits/monthly/lime7?style=flat-square&color=black&logo=github&a=0">
   </a>
 </p>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsogmeotv4twffveiwzpo6ze2y&cover_image=true&theme=novatorem&bar_color=ff5a00)](https://github.com/kittinan/spotify-github-profile)
