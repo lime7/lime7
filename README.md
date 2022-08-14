@@ -7,7 +7,7 @@
  📈 My github stats: <br> 
 
 
-| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> | <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> |
+| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=#ff5a00&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> | <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=#ff5a00&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> |
 | ------------- | ------------- |
 
 
@@ -25,5 +25,5 @@
   </a>
 </p>
 <p align="right">
- <a href="https://www.buymeacoffee.com/lime27" target="_blank" ><img width="200" alt="screen shot 2018-03-01 at 10 33 39" src="https://camo.githubusercontent.com/188186443a36a1edf83596553cf205102c8d39ded381fc9a549020c4b8b6ab16/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f62697a7374616b2f696d6167652f75706c6f61642f76313631303331373531302f6b6f2d66692d7472616e735f6672337375342e706e67"></a>
+ <a href="https://www.buymeacoffee.com/lime27" target="_blank" ><img width="200" alt="screen shot 2018-03-01 at 10 33 39" src="https://user-images.githubusercontent.com/1577802/36840220-21beb89c-1d3c-11e8-98a4-45fc334842cf.png"></a>
   </p>
