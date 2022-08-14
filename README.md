@@ -7,7 +7,7 @@
  📈 My github stats: <br> 
 
 
-| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=ff5a00&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> | <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> |
+| <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> | <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> |
 | ------------- | ------------- |
 
 
