@@ -1,6 +1,4 @@
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tsogmeotv4twffveiwzpo6ze2y&cover_image=true&theme=novatorem&bar_color=ff5a00" align="right">
-
 ### Hi there 👋   <br> 
  🔭 I’m currently working on ... <br> 
  🌱 I’m currently learning react/vue <br> 
