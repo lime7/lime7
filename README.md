@@ -1,6 +1,6 @@
 
 ### Hi there 👋   <br> 
- 🔭 I’m currently working on ... <br> 
+ 🔭 I’m currently working on 🌶 <br> 
  🌱 I’m currently learning react/vue <br> 
  📈 My github stats: <br> 
  
