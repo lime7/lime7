@@ -4,7 +4,7 @@
  🌱 I’m currently learning react/vue <br> 
  📈 My github stats: <br> 
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsogmeotv4twffveiwzpo6ze2y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsogmeotv4twffveiwzpo6ze2y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=ff5a00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 | <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lime7&show_icons=true&title_color=ff5a00&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> | <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lime7&layout=compact&title_color=ff5a00&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="lime7" /> |
