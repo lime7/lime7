@@ -14,9 +14,6 @@
  <p>  
   <img src="https://komarev.com/ghpvc/?username=lime7&color=000000">
   <img src="https://visitor-badge.glitch.me/badge?page_id=lime7.visitor-badge&left_color=gray&right_color=black&left_text=Visitors">
-  <a href="https://stackoverflow.com/users/6452878">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6452878?color=gray&label=reputation&logo=stackoverflow">
-  </a>
 </p>
 <p align="right">
  <a href="https://www.buymeacoffee.com/lime27" target="_blank" ><img width="200" alt="screen shot 2018-03-01 at 10 33 39" src="https://user-images.githubusercontent.com/1577802/36840220-21beb89c-1d3c-11e8-98a4-45fc334842cf.png"></a>
