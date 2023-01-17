@@ -14,7 +14,7 @@
  <p>  
   <img src="https://komarev.com/ghpvc/?username=lime7&color=000000">
   <img src="https://visitor-badge.glitch.me/badge?page_id=lime7.visitor-badge&left_color=gray&right_color=black&left_text=Visitors">
-  <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow.com/r/212421?color=000000&label=stackoverflow">
+  <a href="https://ru.stackoverflow.com/users/212421/hamster" target="_blank" ><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/ru.stackoverflow.com/r/212421?color=000000&label=stackoverflow"></a>
   <a href="https://sv-e.vercel.app" target="_blank" ><img alt="Website" src="https://img.shields.io/website?color=000000&up_color=000000&up_message=sv-e.vercel.app&url=https%3A%2F%2Fsv-e.vercel.app"></a>
 </p>
 <p align="right">
